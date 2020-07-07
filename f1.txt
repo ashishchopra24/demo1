@@ -1,6 +1,10 @@
 first fileNew
 Now
-
+int saurav=50;
 void proc1(){
 new feature changes
+}
+
+public void init(){
+initialize data with saurav changes
 }
