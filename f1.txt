@@ -1,6 +1,6 @@
 first fileNew
 Now
-
+int dilip=10;
 void proc1(){
 new feature changes
 }
