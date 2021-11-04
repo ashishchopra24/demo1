@@ -2,6 +2,7 @@ first fileNew
 second line
 Now
 int a=1;
+string a="ash";
 void proc1(){
 new feature changes
 print "new line";
